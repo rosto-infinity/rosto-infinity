@@ -1,6 +1,6 @@
 k- 👋 Salut, je suis @rosto-infinity
-- 👀 Je suis intéressé par le développ web et mobile
-- 🌱 J'apprends actuellement le javascrit et le php
+- 👀 Je suis intéressé par le développement web et mobile
+- 🌱 J'apprends actuellement le javascrit, le php et le dart
 - 💞️ Je cherche à collaborer sur google
 - 📫 Comment me joindre...
 
