@@ -45,41 +45,30 @@ Voici quelques-uns de mes projets favoris :
 
 ## Mes statistiques GitHub
 ![Mes statistiques GitHub](https://github-readme-stats.vercel.app/api?username=rosto-infinity&show_icons=true&theme=radical)
-# Statistiques de mon GitHub
-
 # Statistiques de Mon GitHub
 
 Bienvenue sur mon profil GitHub ! Voici quelques statistiques concernant mes dépôts.
 
 ## Stats Globales
 
-<div style="display: flex; justify-content: space-between;">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rosto-infinity&show_icons=true&theme=radical)
 
-<div style="flex: 1; margin-right: 10px;">
-    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rosto-infinity&show_icons=true&theme=radical)
-</div>
+## Langages les Plus Utilisés
 
-<div style="flex: 1; margin-left: 10px;">
-    ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rosto-infinity&layout=compact&theme=radical)
-</div>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rosto-infinity&layout=compact&theme=radical)
 
-</div>
+## Langages par Commit
 
-## Langages par Commit et par Dépôt
+![Top Languages by Commit](https://github-readme-stats.vercel.app/api/top-langs/?username=rosto-infinity&count_private=true&theme=radical)
 
-<div style="display: flex; justify-content: space-between;">
+## Langages par Dépôt
 
-<div style="flex: 1; margin-right: 10px;">
-    ![Top Languages by Commit](https://github-readme-stats.vercel.app/api/top-langs/?username=rosto-infinity&count_private=true&theme=radical)
-</div>
-
-<div style="flex: 1; margin-left: 10px;">
-    ![Top Languages by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=rosto-infinity&langs_count=10&theme=radical)
-</div>
-
-</div>
+![Top Languages by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=rosto-infinity&langs_count=10&theme=radical)
 
 ---
+
+
+
 
 
 
