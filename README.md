@@ -43,17 +43,15 @@ Voici quelques-uns de mes projets favoris :
 - [NomDuDepot1](lien-vers-le-depot)  
 - [NomDuDepot2](lien-vers-le-depot)
 
-## Mes statistiques GitHub
-![Mes statistiques GitHub](https://github-readme-stats.vercel.app/api?username=rosto-infinity&show_icons=true&theme=radical)
+
 # Statistiques de Mon GitHub
 
-Bienvenue sur mon profil GitHub ! Voici quelques statistiques concernant mes dépôts.
 
-## Stats Globales
+## Statistiques mondiales
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rosto-infinity&show_icons=true&theme=radical)
 
-## Langages les Plus Utilisés
+## Langues les plus utilisées
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rosto-infinity&layout=compact&theme=radical)
 
