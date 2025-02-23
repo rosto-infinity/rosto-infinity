@@ -46,16 +46,20 @@ Voici quelques-uns de mes projets favoris :
 ## Mes statistiques GitHub
 ![Mes statistiques GitHub](https://github-readme-stats.vercel.app/api?username=rosto-infinity&show_icons=true&theme=radical)
 # Statistiques de Mon GitHub
+# Statistiques de Mon GitHub
 
 Bienvenue sur mon profil GitHub ! Voici quelques statistiques concernant mes dépôts.
 
 ## Stats Globales
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rosto-infinity&show_icons=true&theme=radical)
-
-## Langages les Plus Utilisés
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rosto-infinity&layout=compact&theme=radical)
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <div style="flex: 1; margin-right: 10px;">
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rosto-infinity&show_icons=true&theme=radical)
+  </div>
+  <div style="flex: 1; margin-left: 10px;">
+    ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rosto-infinity&layout=compact&theme=radical)
+  </div>
+</div>
 
 ## Langages par Commit
 
@@ -67,6 +71,12 @@ Bienvenue sur mon profil GitHub ! Voici quelques statistiques concernant mes dé
 
 ---
 
+### Remarques
+
+- Les statistiques sont mises à jour automatiquement.
+- Vous pouvez personnaliser les thèmes et les options selon vos préférences.
+
+Merci de visiter mon profil !
 
 
 
