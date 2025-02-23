@@ -9,33 +9,33 @@ Toujours en quête des dernières technologies, je m'intéresse aussi bien au d�
 
 ### Langages
 <div style="overflow-x: auto; white-space: nowrap;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/php.svg" alt="PHP" style="height:100px; margin-right:10px; color: rgb(79, 91, 147);" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" alt="JavaScript" style="height:100px; margin-right:10px; color: rgb(247, 223, 30);" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/c.svg" alt="C" style="height:100px; margin-right:10px; color: rgb(168, 185, 204);" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/csharp.svg" alt="C#" style="height:100px; margin-right:10px; color: rgb(23, 134, 0);" />
+  <img src="https://img.shields.io/badge/PHP-4F5B93?style=flat-square&logo=php" alt="PHP" style="height:100px; margin-right:10px;" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript" alt="JavaScript" style="height:100px; margin-right:10px;" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c" alt="C" style="height:100px; margin-right:10px;" />
+  <img src="https://img.shields.io/badge/C%23-178600?style=flat-square&logo=csharp" alt="C#" style="height:100px; margin-right:10px;" />
 </div>
 
 ### Frameworks
 <div style="overflow-x: auto; white-space: nowrap;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/laravel.svg" alt="Laravel" style="height:100px; margin-right:10px; color: rgb(255, 45, 85);" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/vuedotjs.svg" alt="Vue.js" style="height:100px; margin-right:10px; color: rgb(65, 184, 131);" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nuxtdotjs.svg" alt="Nuxt.js" style="height:100px; margin-right:10px; color: rgb(0, 220, 130);" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/tailwindcss.svg" alt="Tailwind CSS" style="height:100px; margin-right:10px; color: rgb(56, 178, 172);" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D55?style=flat-square&logo=laravel" alt="Laravel" style="height:100px; margin-right:10px;" />
+  <img src="https://img.shields.io/badge/Vue.js-41B883?style=flat-square&logo=vue.js" alt="Vue.js" style="height:100px; margin-right:10px;" />
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js" alt="Nuxt.js" style="height:100px; margin-right:10px;" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css" alt="Tailwind CSS" style="height:100px; margin-right:10px;" />
 </div>
 
 ### Outils
 <div style="overflow-x: auto; white-space: nowrap;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/git.svg" alt="Git" style="height:100px; margin-right:10px; color: rgb(240, 80, 50);" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/docker.svg" alt="Docker" style="height:100px; margin-right:10px; color: rgb(36, 150, 237);" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/adobephotoshop.svg" alt="Adobe Photoshop" style="height:100px; margin-right:10px; color: rgb(49, 168, 255);" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/adobeillustrator.svg" alt="Adobe Illustrator" style="height:100px; margin-right:10px; color: rgb(255, 154, 0);" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/adobeindesign.svg" alt="Adobe InDesign" style="height:100px; margin-right:10px; color: rgb(224, 60, 49);" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/adobexd.svg" alt="Adobe XD" style="height:100px; margin-right:10px; color: rgb(255, 97, 246);" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git" alt="Git" style="height:100px; margin-right:10px;" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker" alt="Docker" style="height:100px; margin-right:10px;" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop" alt="Adobe Photoshop" style="height:100px; margin-right:10px;" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator" alt="Adobe Illustrator" style="height:100px; margin-right:10px;" />
+  <img src="https://img.shields.io/badge/Adobe%20InDesign-E03C31?style=flat-square&logo=adobe-indesign" alt="Adobe InDesign" style="height:100px; margin-right:10px;" />
+  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=adobe-xd" alt="Adobe XD" style="height:100px; margin-right:10px;" />
 </div>
 
 ### CMS
 <div style="overflow-x: auto; white-space: nowrap;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/wordpress.svg" alt="WordPress" style="height:100px; margin-right:10px; color: rgb(33, 117, 155);" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress" alt="WordPress" style="height:100px; margin-right:10px;" />
 </div>
 
 ## Dépôts en vedette
@@ -44,7 +44,7 @@ Voici quelques-uns de mes projets favoris :
 - [NomDuDepot2](lien-vers-le-depot)
 
 ## Mes statistiques GitHub
-![Mes statistiques GitHub](https://github-readme-stats.vercel.app/api?username=rosto-infinity&show_icons=true&theme=radical)
+![Mes statistiques GitHub]
 
 ## Connectez-vous avec moi
 - [LinkedIn](https://www.linkedin.com/in/lelerostand/)
