@@ -38,6 +38,7 @@ Toujours en quête des dernières technologies, je m'intéresse aussi bien au d�
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/wordpress.svg" alt="WordPress" style="height:100px; margin-right:10px;" />
 </div>
 
+
 ## Dépôts en vedette
 Voici quelques-uns de mes projets favoris :  
 - [NomDuDepot1](lien-vers-le-depot)  
