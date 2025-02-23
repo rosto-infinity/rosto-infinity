@@ -5,9 +5,10 @@ Bonjour ! Je suis [Votre Nom] et je suis passionné par [vos domaines d’intér
 [Ajoutez ici une brève description de vous-même.]
 
 ## Ma pile technologique
-- Langages : Java, C++, Python, etc.
-- Frameworks : Spring, .NET, Angular, ...
-- Outils : Git, Docker, etc.
+- Langages : PHP, JAVASCRIPT, C, C#.
+- Frameworks : Laravel, VueJS, NuxtJS, Tailwind css  ...
+- Outils : Git, Docker,Adobe (Photoshop, Illustrator, Indesign, XD) etc.
+- CMS : WordPress
 
 ## Dépôts en vedette
 Voici quelques-uns de mes projets favoris :
@@ -18,6 +19,6 @@ Voici quelques-uns de mes projets favoris :
 ![Mes statistiques GitHub](https://github-readme-stats.vercel.app/api?username=rosto-infinity&show_icons=true&theme=radical)
 
 ## Connectez-vous avec moi
-- [LinkedIn](lien-vers-votre-profil-linkedin)
-- [Twitter](lien-vers-votre-profil-twitter)
+- [LinkedIn](https://www.linkedin.com/in/lelerostand/)
+- [Twitter](https://x.com/Rostandlele)
 - [Site personnel](lien-vers-votre-site)
