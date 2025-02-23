@@ -9,33 +9,33 @@ Toujours en quête des dernières technologies, je m'intéresse aussi bien au d�
 
 ### Langages
 <div style="overflow-x: auto; white-space: nowrap;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/php.svg" alt="PHP" style="height:100px; margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" alt="JavaScript" style="height:100px; margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/c.svg" alt="C" style="height:100px; margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/csharp.svg" alt="C#" style="height:100px; margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/php.svg" alt="PHP" style="height:100px; margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg" alt="JavaScript" style="height:100px; margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/c.svg" alt="C" style="height:100px; margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/csharp.svg" alt="C#" style="height:100px; margin-right:10px;" />
 </div>
 
 ### Frameworks
 <div style="overflow-x: auto; white-space: nowrap;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/laravel.svg" alt="Laravel" style="height:100px; margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/vuedotjs.svg" alt="Vue.js" style="height:100px; margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nuxtdotjs.svg" alt="Nuxt.js" style="height:100px; margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/tailwindcss.svg" alt="Tailwind CSS" style="height:100px; margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/laravel.svg" alt="Laravel" style="height:100px; margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vuedotjs.svg" alt="Vue.js" style="height:100px; margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nuxtdotjs.svg" alt="Nuxt.js" style="height:100px; margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailwindcss.svg" alt="Tailwind CSS" style="height:100px; margin-right:10px;" />
 </div>
 
 ### Outils
 <div style="overflow-x: auto; white-space: nowrap;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/git.svg" alt="Git" style="height:100px; margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/docker.svg" alt="Docker" style="height:100px; margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/adobephotoshop.svg" alt="Adobe Photoshop" style="height:100px; margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/adobeillustrator.svg" alt="Adobe Illustrator" style="height:100px; margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/adobeindesign.svg" alt="Adobe InDesign" style="height:100px; margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/adobexd.svg" alt="Adobe XD" style="height:100px; margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg" alt="Git" style="height:100px; margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg" alt="Docker" style="height:100px; margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobephotoshop.svg" alt="Adobe Photoshop" style="height:100px; margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobeillustrator.svg" alt="Adobe Illustrator" style="height:100px; margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobeindesign.svg" alt="Adobe InDesign" style="height:100px; margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobexd.svg" alt="Adobe XD" style="height:100px; margin-right:10px;" />
 </div>
 
 ### CMS
 <div style="overflow-x: auto; white-space: nowrap;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/wordpress.svg" alt="WordPress" style="height:100px; margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/wordpress.svg" alt="WordPress" style="height:100px; margin-right:10px;" />
 </div>
 
 
