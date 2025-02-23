@@ -44,7 +44,7 @@ Voici quelques-uns de mes projets favoris :
 - [NomDuDepot2](lien-vers-le-depot)
 
 ## Mes statistiques GitHub
-![Mes statistiques GitHub]
+![Mes statistiques GitHub](https://github-readme-stats.vercel.app/api?username=rosto-infinity&show_icons=true&theme=radical)
 
 ## Connectez-vous avec moi
 - [LinkedIn](https://www.linkedin.com/in/lelerostand/)
