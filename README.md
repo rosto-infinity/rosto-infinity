@@ -1,9 +1,9 @@
-# ROSTAND LELE
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ROSTAND%20LELE&font=Fira+Code&color=00FF00&center=true&vCenter=true&size=30)
 
 ## À propos de moi
-Bonjour ! Je suis **Rostand Lele**, développeur passionné par la création de solutions web innovantes et le design.  
+Bonjour ! Je suis **Rostand Lele**, développeur passionné par la création de solutions web innovantes et par le design.  
 Je combine mes compétences techniques et créatives pour concevoir des projets performants et esthétiques.  
-Toujours en quête des dernières technologies, je m'intéresse autant au développement backend qu'à l'UI/UX.
+Toujours en quête des dernières technologies, je m'intéresse aussi bien au développement backend qu'à l'UI/UX.
 
 ## Ma pile technologique
 
@@ -18,8 +18,8 @@ Toujours en quête des dernières technologies, je m'intéresse autant au dével
 ### Frameworks
 <div style="overflow-x: auto; white-space: nowrap;">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/laravel.svg" alt="Laravel" style="height:100px; margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/vue-dot-js.svg" alt="VueJS" style="height:100px; margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nuxtdotjs.svg" alt="NuxtJS" style="height:100px; margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/vuedotjs.svg" alt="Vue.js" style="height:100px; margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nuxtdotjs.svg" alt="Nuxt.js" style="height:100px; margin-right:10px;" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/tailwindcss.svg" alt="Tailwind CSS" style="height:100px; margin-right:10px;" />
 </div>
 
