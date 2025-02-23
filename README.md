@@ -47,32 +47,41 @@ Voici quelques-uns de mes projets favoris :
 ![Mes statistiques GitHub](https://github-readme-stats.vercel.app/api?username=rosto-infinity&show_icons=true&theme=radical)
 # Statistiques de mon GitHub
 
+# Statistiques de Mon GitHub
+
 Bienvenue sur mon profil GitHub ! Voici quelques statistiques concernant mes dépôts.
 
 ## Stats Globales
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rosto-infinity&show_icons=true&theme=radical)
+<div style="display: flex; justify-content: space-between;">
 
-## Langages les Plus Utilisés
+<div style="flex: 1; margin-right: 10px;">
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rosto-infinity&show_icons=true&theme=radical)
+</div>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rosto-infinity&layout=compact&theme=radical)
+<div style="flex: 1; margin-left: 10px;">
+    ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rosto-infinity&layout=compact&theme=radical)
+</div>
 
-## Langages par Commit
+</div>
 
-![Top Languages by Commit](https://github-readme-stats.vercel.app/api/top-langs/?username=rosto-infinity&count_private=true&theme=radical)
+## Langages par Commit et par Dépôt
 
-## Langages par Dépôt
+<div style="display: flex; justify-content: space-between;">
 
-![Top Languages by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=rosto-infinity&langs_count=10&theme=radical)
+<div style="flex: 1; margin-right: 10px;">
+    ![Top Languages by Commit](https://github-readme-stats.vercel.app/api/top-langs/?username=rosto-infinity&count_private=true&theme=radical)
+</div>
+
+<div style="flex: 1; margin-left: 10px;">
+    ![Top Languages by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=rosto-infinity&langs_count=10&theme=radical)
+</div>
+
+</div>
 
 ---
 
-### Remarques
 
-- Les statistiques sont mises à jour automatiquement.
-- Vous pouvez personnaliser les thèmes et les options selon vos préférences.
-
-Merci de visiter mon profil !
 
 
 ## Connectez-vous avec moi
