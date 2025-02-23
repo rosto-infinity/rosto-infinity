@@ -1,4 +1,4 @@
-![Typing SVG]
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ROSTAND%20LELE&font=Fira+Code&color=00FF00&center=true&vCenter=true&size=30)
 
 ## À propos de moi.
 Bonjour ! Je suis **Rostand Lele**, développeur passionné par la création de solutions web innovantes et par le design.  
