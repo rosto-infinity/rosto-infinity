@@ -45,6 +45,35 @@ Voici quelques-uns de mes projets favoris :
 
 ## Mes statistiques GitHub
 ![Mes statistiques GitHub](https://github-readme-stats.vercel.app/api?username=rosto-infinity&show_icons=true&theme=radical)
+# Statistiques de mon GitHub
+
+Bienvenue sur mon profil GitHub ! Voici quelques statistiques concernant mes dépôts.
+
+## Stats Globales
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rosto-infinity&show_icons=true&theme=radical)
+
+## Langages les Plus Utilisés
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rosto-infinity&layout=compact&theme=radical)
+
+## Langages par Commit
+
+![Top Languages by Commit](https://github-readme-stats.vercel.app/api/top-langs/?username=rosto-infinity&count_private=true&theme=radical)
+
+## Langages par Dépôt
+
+![Top Languages by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=rosto-infinity&langs_count=10&theme=radical)
+
+---
+
+### Remarques
+
+- Les statistiques sont mises à jour automatiquement.
+- Vous pouvez personnaliser les thèmes et les options selon vos préférences.
+
+Merci de visiter mon profil !
+
 
 ## Connectez-vous avec moi
 - [LinkedIn](https://www.linkedin.com/in/lelerostand/)
