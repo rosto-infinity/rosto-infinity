@@ -41,7 +41,11 @@ Je combine mes compétences techniques et créatives pour concevoir des projets 
   <img src="https://img.shields.io/badge/XD-FF61F6?logo=adobe-xd&logoColor=white" alt="Adobe XD" height="28" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white" alt="VS Code" height="28" />
 </div>
-
+<!-- Outils Adobe -->
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" alt="Photoshop" style="height:24px; margin-right:8px;" />
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" alt="Illustrator" style="height:24px; margin-right:8px;" />
+  <img src="https://img.shields.io/badge/Adobe_InDesign-E03C31?style=flat-square&logo=adobe-indesign&logoColor=white" alt="InDesign" style="height:24px; margin-right:8px;" />
+  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white" alt="XD" style="height:24px; margin-right:8px;" />
 
 ### CMS
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
