@@ -32,12 +32,13 @@ Je combine mes compétences techniques et créatives pour concevoir des projets 
 </div>
 
 ### Outils
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" height="28" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" height="28" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white" alt="Photoshop" height="28" />
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white" alt="Illustrator" height="28" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white" alt="VS Code" height="28" />
+<div style="overflow-x: auto; white-space: nowrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="20" height="20" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="20" height="20" style="margin-right:10px;" />
+  <img src="[Adobe Photoshop SVG URL]" alt="Adobe Photoshop" width="20" height="20" style="margin-right:10px;" /> <!-- Remplacez par l'URL réelle -->
+  <img src="[Adobe Illustrator SVG URL]" alt="Adobe Illustrator" width="20" height="20" style="margin-right:10px;" /> <!-- Remplacez par l'URL réelle -->
+  <img src="[Adobe InDesign SVG URL]" alt="Adobe InDesign" width="20" height="20" style="margin-right:10px;" /> <!-- Remplacez par l'URL réelle -->
+  <img src="[Adobe XD SVG URL]" alt="Adobe XD" width="20" height="20" style="margin-right:10px;" /> <!-- Remplacez par l'URL réelle -->
 </div>
 
 ### CMS
