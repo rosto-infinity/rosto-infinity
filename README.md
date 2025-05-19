@@ -47,6 +47,17 @@ Je combine mes compétences techniques et créatives pour concevoir des projets 
   <img src="https://img.shields.io/badge/Adobe_InDesign-E03C31?style=flat-square&logo=adobe-indesign&logoColor=white" alt="InDesign" style="height:24px; margin-right:8px;" />
   <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white" alt="XD" style="height:24px; margin-right:8px;" />
 
+  ### Frameworks
+<div style="overflow-x: auto; white-space: nowrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="20" height="20" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="20" height="20" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js" width="20" height="20" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="20" height="20" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="20" height="20" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="20" height="20" style="margin-right:10px;" />
+  <img src="[Inertia.js SVG URL]" alt="Inertia.js" width="20" height="20" style="margin-right:10px;" /> <!-- Remplacez par l'URL réelle -->
+</div>
+
 ### CMS
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" alt="WordPress" height="28" />
