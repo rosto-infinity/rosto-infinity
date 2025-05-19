@@ -1,64 +1,68 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=WAFFO+LELE+ROSTAND" alt="Typing SVG">
-</p>
-
----
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ROSTAND+LELE&font=Fira+Code&color=00FF00&center=true&vCenter=true&size=30)
 
 ## À propos de moi
+**Bonjour ! Je suis WAFFO LELE ROSTAND**, un développeur passionné par la création de solutions web innovantes et le design.  
 
-**Bonjour ! Je suis WAFFO LELE ROSTAND**, développeur passionné par la création de solutions web innovantes et le design.  
-J’allie compétences techniques et créativité pour concevoir des applications performantes et esthétiques. Toujours en veille des dernières technologies, j’utilise principalement **Laravel** et **Vue.js**, tout en explorant **Next.js** et en me formant sur **Flutter** pour le mobile. L’UI/UX et le backend sont au cœur de mes préoccupations.
+Je combine mes compétences techniques et créatives pour concevoir des projets performants et esthétiques. Spécialisé dans **Laravel** et **Vue.js**, j'explore aussi **Next.js** et **Flutter** pour le développement mobile. Mon expertise couvre le backend, l'UI/UX et les architectures modernes.
 
 ---
 
-## Ma pile technologique
+## 🛠 Ma pile technologique
 
 ### Langages
-<div style="overflow-x: auto; white-space: nowrap;">
-  <img src="https://img.shields.io/badge/PHP-4F5B93?style=flat-square&logo=php&logoColor=white" alt="PHP" style="height:24px; margin-right:8px;" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" style="height:24px; margin-right:8px;" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" style="height:24px; margin-right:8px;" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" style="height:24px; margin-right:8px;" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" style="height:24px; margin-right:8px;" />
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" height="28" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" height="28" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" alt="C" height="28" />
+  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" alt="C#" height="28" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" alt="Dart" height="28" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" height="28" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" height="28" />
 </div>
 
-### Frameworks & UI
-<div style="overflow-x: auto; white-space: nowrap;">
-  <img src="https://img.shields.io/badge/Laravel-FF2D55?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" style="height:24px; margin-right:8px;" />
-  <img src="https://img.shields.io/badge/Vue.js-41B883?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js" style="height:24px; margin-right:8px;" />
-  <img src="https://img.shields.io/badge/Inertia.js-000000?style=flat-square&logo=inertia.js&logoColor=white" alt="Inertia.js" style="height:24px; margin-right:8px;" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="height:24px; margin-right:8px;" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" style="height:24px; margin-right:8px;" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" style="height:24px; margin-right:8px;" />
+### Frameworks
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel" height="28" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" alt="Vue.js" height="28" />
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxt.js&logoColor=white" alt="Nuxt.js" height="28" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="28" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter" height="28" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" height="28" />
+  <img src="https://img.shields.io/badge/Inertia-000000?logo=inertia&logoColor=white" alt="Inertia" height="28" />
 </div>
 
-### Outils & CI/CD
-<div style="overflow-x: auto; white-space: nowrap;">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" style="height:24px; margin-right:8px;" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" style="height:24px; margin-right:8px;" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" style="height:24px; margin-right:8px;" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" style="height:24px; margin-right:8px;" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode" style="height:24px; margin-right:8px;" />
+### Outils
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" height="28" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" height="28" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white" alt="Photoshop" height="28" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white" alt="Illustrator" height="28" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white" alt="VS Code" height="28" />
+</div>
+
+### CMS
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" alt="WordPress" height="28" />
 </div>
 
 ---
 
-## Dépôts en vedette
-- [Mon Blog Laravel & Vue](https://github.com/rosto-infinity/laravel-vue-blog)  
-- [Starter Kit Inertia.js + Tailwind](https://github.com/rosto-infinity/inertia-tailwind-starter)
+## 🌟 Dépôts en vedette
+- **[NomDuProjet1](lien)** - Description courte (ex: "Plateforme e-commerce avec Laravel + Vue")  
+- **[NomDuProjet2](lien)** - Description courte (ex: "Application Flutter de gestion de tâches")  
 
 ---
 
-## Statistiques GitHub
+## 📊 Statistiques GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rosto-infinity&show_icons=true&theme=radical" alt="GitHub Stats" width="380" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosto-infinity&layout=compact&theme=radical" alt="Top Languages" width="260" />
-</p>
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=rosto-infinity&show_icons=true&theme=radical" alt="Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosto-infinity&layout=compact&theme=radical" alt="Top Langs" width="48%" />
+</div>
 
 ---
 
-## 📬 Contactez-moi
-
-- [LinkedIn](https://www.linkedin.com/in/lelerostand/)  
-- [Twitter](https://x.com/Rostandlele)  
+## 📫 Contact
+- <a href="https://www.linkedin.com/in/lelerostand/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin" alt="LinkedIn" height="24"></a>
+- <a href="https://x.com/Rostandlele"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter" alt="Twitter" height="24"></a>
+- <a href="mailto:votre@email.com"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail" alt="Email" height="24"></a>
