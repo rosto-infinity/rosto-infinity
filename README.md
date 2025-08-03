@@ -52,8 +52,8 @@ Je combine mes compétences techniques et créatives pour concevoir des projets 
 ---
 
 ## 🌟 Dépôts en vedette
-- **[NomDuProjet1](lien)** - Description courte (ex: "Plateforme e-commerce avec Laravel + Vue")  
-- **[NomDuProjet2](lien)** - Description courte (ex: "Application Flutter de gestion de tâches")  
+- **[webStage](https://github.com/rosto-infinity/v-webstage)** - Description courte (ex: "webStage Laravel, Vue.js, Inertia.js Tailwind CSS et Chart.js")  
+- **[Blog PHP](https://github.com/rosto-infinity/php-2025admin-blog-prof)** - Description courte (ex: "Application Blog PHP")  
 
 ---
 
