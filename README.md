@@ -3,7 +3,7 @@
 ## À propos de moi
 **Bonjour ! Je suis WAFFO LELE ROSTAND**, un développeur passionné par la création de solutions web innovantes et le design.  
 
-Je combine mes compétences techniques et créatives pour concevoir des projets performants et esthétiques. Spécialisé dans **Laravel** et **Vue.js**, j'explore aussi **Next.js** et **Flutter** pour le développement mobile. Mon expertise couvre le backend, l'UI/UX et les architectures modernes.
+Je combine mes compétences techniques et créatives pour concevoir des projets performants et esthétiques. Spécialisé dans **WordPress** ,  **Laravel** et **Vue.js**, j'explore aussi **Flutter** pour le développement mobile. Mon expertise couvre le backend, l'UI/UX et les architectures modernes.
 
 ---
 
@@ -28,7 +28,6 @@ Je combine mes compétences techniques et créatives pour concevoir des projets 
   <img src="https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxt.js&logoColor=white" alt="Nuxt.js" height="28" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="28" />
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter" height="28" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" height="28" />
   <img src="https://img.shields.io/badge/Inertia-000000?logo=inertia&logoColor=white" alt="Inertia" height="28" />
 </div>
 
