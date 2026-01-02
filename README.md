@@ -1,6 +1,6 @@
 # ROSTAND LELE
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ROSTAND+LELE;Développeur+Web+Full+Stack;Laravel+%7C+Vue.js+%7C+Flutter&font=Fira+Code&color=00FF00&center=true&vCenter=true&size=30&duration=3000)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ROSTAND+LELE;Developpeur+Web+Full+Stack;Laravel+%7C+Vue.js+%7C+Flutter&font=Fira+Code&color=00FF00&center=true&vCenter=true&size=30&duration=3000)
 
 ---
 
