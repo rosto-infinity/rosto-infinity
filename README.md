@@ -46,19 +46,19 @@ Je combine mes compétences techniques et créatives pour concevoir des projets 
 ---
 
 ------------------------------
-## 🌟 Dépôts en vedette## 🚀 webStage
+## 🌟 Dépôts en vedette
+
+### 🚀 [webStage](https://github.com/rosto-infinity/v-webstage)
 Application web moderne avec Laravel, Vue.js, Inertia.js, Tailwind CSS et Chart.js pour la gestion de stages.
-## 📝 Blog PHP CFPC
+### 📝 [Blog PHP CFPC](https://github.com/rosto-infinity/php-blog-cfpc)
 Application Blog PHP complète avec système d'administration professionnel développé pour le CFPC.
-## 🔐 Espace Membre 2026
+### 🔐 [Espace Membre 2026](https://github.com/rosto-infinity/espace-membre-2026)
 Système complet de gestion des membres et authentification sécurisée.
-## 🏫 Laravel CFPC
+### 🏫 [Laravel CFPC](https://github.com/rosto-infinity/laravel.cfpcanadienne.com)
 Plateforme institutionnelle pour le Centre de Formation Professionnelle La Canadienne sous Laravel.
-## 📊 Gestion Évaluations v2
+### 📊 [Gestion Évaluations v2](https://github.com/rosto-infinity/gestion_eval_cfpcanadienne_com2)
 Outil de gestion et de suivi des évaluations académiques pour la plateforme cfpcanadienne.com.
 ------------------------------
-
-
 ---
 
 ## 📊 Statistiques GitHub
