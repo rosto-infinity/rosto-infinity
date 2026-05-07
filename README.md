@@ -45,13 +45,19 @@ Je combine mes compétences techniques et créatives pour concevoir des projets 
 
 ---
 
-## 🌟 Dépôts en vedette
-
-### 🚀 [webStage](https://github.com/rosto-infinity/v-webstage)
-Application web moderne avec Laravel, Vue.js, Inertia.js, Tailwind CSS et Chart.js pour la gestion de stages.
-
-### 📝 [Blog PHP](https://github.com/rosto-infinity/php-2025admin-blog-prof)
-Application Blog PHP complète avec système d'administration professionnel.
+Voici la liste complétée et organisée de vos dépôts, en suivant le style visuel de votre profil GitHub :
+------------------------------
+## 🌟 Dépôts en vedette## 🚀 webStage
+Application web moderne développée avec Laravel, Vue.js, Inertia.js, Tailwind CSS et Chart.js pour la gestion optimisée des stages en entreprise.
+## 📝 Blog PHP Professionnel
+Une plateforme de blogging complète avec un système d'administration robuste pour la gestion de contenus dynamiques.
+## 🔐 Espace Membre 2026
+Système complet d'authentification et de gestion de profils utilisateurs, mettant l'accent sur la sécurité et l'expérience utilisateur moderne.
+## 🏫 Laravel CFPC
+Dépôt principal du projet Web pour le Centre de Formation Professionnelle La Canadienne, structuré avec le framework Laravel.
+## 📊 Gestion Évaluations v2
+Version améliorée du système de gestion des évaluations, permettant le suivi des notes et la génération de rapports académiques.
+------------------------------
 
 ---
 
