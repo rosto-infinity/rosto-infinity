@@ -58,6 +58,7 @@ Système complet de gestion des membres et authentification sécurisée.
 Plateforme institutionnelle pour le Centre de Formation Professionnelle La Canadienne sous Laravel.
 ### 📊 [Gestion Évaluations v2](https://github.com/rosto-infinity/gestion_eval_cfpcanadienne_com2)
 Outil de gestion et de suivi des évaluations académiques pour la plateforme cfpcanadienne.com.
+
 ------------------------------
 ---
 
