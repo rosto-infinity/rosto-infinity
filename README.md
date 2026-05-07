@@ -45,19 +45,19 @@ Je combine mes compétences techniques et créatives pour concevoir des projets 
 
 ---
 
-Voici la liste complétée et organisée de vos dépôts, en suivant le style visuel de votre profil GitHub :
 ------------------------------
 ## 🌟 Dépôts en vedette## 🚀 webStage
-Application web moderne développée avec Laravel, Vue.js, Inertia.js, Tailwind CSS et Chart.js pour la gestion optimisée des stages en entreprise.
-## 📝 Blog PHP Professionnel
-Une plateforme de blogging complète avec un système d'administration robuste pour la gestion de contenus dynamiques.
+Application web moderne avec Laravel, Vue.js, Inertia.js, Tailwind CSS et Chart.js pour la gestion de stages.
+## 📝 Blog PHP CFPC
+Application Blog PHP complète avec système d'administration professionnel développé pour le CFPC.
 ## 🔐 Espace Membre 2026
-Système complet d'authentification et de gestion de profils utilisateurs, mettant l'accent sur la sécurité et l'expérience utilisateur moderne.
+Système complet de gestion des membres et authentification sécurisée.
 ## 🏫 Laravel CFPC
-Dépôt principal du projet Web pour le Centre de Formation Professionnelle La Canadienne, structuré avec le framework Laravel.
+Plateforme institutionnelle pour le Centre de Formation Professionnelle La Canadienne sous Laravel.
 ## 📊 Gestion Évaluations v2
-Version améliorée du système de gestion des évaluations, permettant le suivi des notes et la génération de rapports académiques.
+Outil de gestion et de suivi des évaluations académiques pour la plateforme cfpcanadienne.com.
 ------------------------------
+
 
 ---
 
