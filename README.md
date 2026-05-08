@@ -1,8 +1,3 @@
-# ROSTAND LELE
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ROSTAND+LELE;Developpeur+Web+Full+Stack;Laravel+%7C+Vue.js+%7C+Flutter&font=Fira+Code&color=00FF00&center=true&vCenter=true&size=30&duration=3000)
-
----
 
 ## 👋 À propos de moi
 
@@ -43,23 +38,6 @@ Je combine mes compétences techniques et créatives pour concevoir des projets 
 ### 📱 CMS
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
 
----
-
-------------------------------
-## 🌟 Dépôts en vedette
-
-### 🚀 [webStage](https://github.com/rosto-infinity/v-webstage)
-Application web moderne avec Laravel, Vue.js, Inertia.js, Tailwind CSS et Chart.js pour la gestion de stages.
-### 📝 [Blog PHP CFPC](https://github.com/rosto-infinity/php-blog-cfpc)
-Application Blog PHP complète avec système d'administration professionnel développé pour le CFPC.
-### 🔐 [Espace Membre 2026](https://github.com/rosto-infinity/espace-membre-2026)
-Système complet de gestion des membres et authentification sécurisée.
-### 🏫 [Laravel CFPC](https://github.com/rosto-infinity/laravel.cfpcanadienne.com)
-Plateforme institutionnelle pour le Centre de Formation Professionnelle La Canadienne sous Laravel.
-### 📊 [Gestion Évaluations v2](https://github.com/rosto-infinity/gestion_eval_cfpcanadienne_com2)
-Outil de gestion et de suivi des évaluations académiques pour la plateforme cfpcanadienne.com.
-
-------------------------------
 ---
 
 ## 📊 Statistiques GitHub
